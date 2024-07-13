@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Microsoft Windows Defender & Firewall          | <a href="https://google.com">Guided Lab</a>|
-| Network Traffic Analysis with tcpdump & WireShark | <a href="https://google.com">Guided Lab</a>|
+| Microsoft Windows Defender & Firewall          | <a href="https://github.com/EthanBaibachaev/Guided-Lab/blob/main/README.md">Guided Lab</a>|
+| Network Traffic Analysis with tcpdump & WireShark | <a href="https://github.com/EthanBaibachaev/Guided-Lab/blob/main/README.md">Guided Lab</a>|
 | Qualys Vulnerability Management & Dectection Response     | QualysGuard|
 | Microsoft Active Directory                  | HTB Academy|
 
