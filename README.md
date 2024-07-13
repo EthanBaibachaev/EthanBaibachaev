@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Microsoft Windows Defender & Firewall          | <a href="https://github.com/EthanBaibachaev/Guided-Lab/blob/main/README.md">Guided Lab</a>|
-| Network Traffic Analysis with tcpdump & WireShark | <a href="https://github.com/EthanBaibachaev/Guided-Lab/blob/main/README.md">Guided Lab</a>|
+| Network Traffic Analysis with TCPdump & WireShark | <a href="https://github.com/EthanBaibachaev/Guided-Lab/blob/main/README.md">Guided Lab</a>|
 | Qualys Vulnerability Management & Dectection Response     | QualysGuard|
 | Microsoft Active Directory                  | HTB Academy|
 
@@ -21,6 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPdump-007ACC?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
@@ -40,7 +41,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management%20and%20Detection%20Response-007ACC?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 ## Key Projects
